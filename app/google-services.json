@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "324734723091",
+    "project_id": "digitalflake-hackathon",
+    "storage_bucket": "digitalflake-hackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324734723091:android:102a71e211a5e123d70be6",
+        "android_client_info": {
+          "package_name": "com.example.digitalflake_hackathon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzwQUnggm3lOeneC_KlQnLeF1MgtbNEoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
